@@ -1,4 +1,4 @@
-# TP2_Promtion5
+# TP2_Promotion5
 Ce repertoire fait partie d'une serie de repertoires qui explique comment mettre sur pieds une application de gestion des promotions avec le langage JAVA.
 
 # IDE : Apache NetBeans IDE 16
